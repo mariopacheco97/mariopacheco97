@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I am a Senior Full Stack Developer with a passion 
 - Innovative startups focusing on interactive media
 - Any project that challenges my skills and fosters creative solutions
 
-## 📫 How to reach me ...
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-
 ## 😄 Pronouns: He/Him
 
 ## ⚡ Fun fact: ...
